@@ -79,7 +79,7 @@ The dataset required extensive preprocessing due to encoding issues (e.g., speci
 
     
 ## 📸 sample
-<img width="700" height="317" alt="Image" src="https://github.com/user-attachments/assets/2037ca2d-021b-44e4-be31-e450de4880b7" />
+<img width="605" height="319" alt="Image" src="https://github.com/user-attachments/assets/57fdf8ea-fe96-4e03-b3ed-f9cf09fe84a7" />
 <img width="574" height="319" alt="Image" src="https://github.com/user-attachments/assets/17762942-c3d7-4694-8aed-692f82e397c5" />
 <img width="592" height="322" alt="Image" src="https://github.com/user-attachments/assets/73d77433-341c-439e-be8c-8633949a820f" />
 <img width="596" height="320" alt="Image" src="https://github.com/user-attachments/assets/16fc4693-0a19-4652-931d-09d3a13e3502" />
